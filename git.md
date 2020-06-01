@@ -11,5 +11,6 @@ git stash steps
 5 - git stash pop
 
 6 - git status
+
 https://tips.tutorialhorizon.com/2015/11/05/git-stash-changes-and-apply-to-new-branch/
 
